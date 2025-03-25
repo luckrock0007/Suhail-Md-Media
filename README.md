@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center"> Suhail Md Plugins </h1>
+<h1 align="center"> luck md </h1>
 <div align="center">
 <br /> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Suhail&label=Visitors%20count&color=10d9c3&style=plastic" alt="Suhail-plugin-list" /> </p>
